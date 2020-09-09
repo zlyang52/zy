@@ -1,5 +1,0 @@
-Dev 3 file
-<<<<<<< HEAD
-=======
-
->>>>>>> development
